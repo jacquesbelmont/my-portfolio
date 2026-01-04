@@ -1,11 +1,3 @@
-Com base na análise completa dos seus arquivos (especialmente o `site.ts` e o código do seu site em Astro) e no seu novo posicionamento como **Senior Prompt Engineer**, reescrevi seu portfólio.
-
-Fiz uma **fusão estratégica**: mantive a autoridade de SEO (que é um diferencial enorme para IA) mas coloquei o foco principal em **Agentes de IA, Engenharia Reversa e Vibe Coding**.
-
-Aqui está a versão atualizada e otimizada para GitHub `README.md` ou para a página "Sobre" do seu site:
-
----
-
 # 🚀 Senior Prompt Engineer & AI Agent Developer
 
 Hi there! 👋 I’m **Jacques Belmont**. I bridge the gap between human intent and machine execution.
