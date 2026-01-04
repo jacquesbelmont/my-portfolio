@@ -1,122 +1,111 @@
-# 🌟 Expert SEO Consultant & Digital Marketing Strategist  
+Com base na análise completa dos seus arquivos (especialmente o `site.ts` e o código do seu site em Astro) e no seu novo posicionamento como **Senior Prompt Engineer**, reescrevi seu portfólio.
 
-Hi there! 👋 I’m Jacques Belmont, a results-driven SEO expert and digital marketing strategist with a proven track record in boosting online visibility, driving organic traffic, and maximizing conversions. This portfolio highlights my expertise in **SEO**, **Conversion Optimization**, and **Digital Growth Strategies**.
+Fiz uma **fusão estratégica**: mantive a autoridade de SEO (que é um diferencial enorme para IA) mas coloquei o foco principal em **Agentes de IA, Engenharia Reversa e Vibe Coding**.
 
----
-
-## 🌐 Explore My Work  
-
-- **Portfolio Website:** [Jacques Belmont](https://yourpersonalwebsite.com)  
-- **LinkedIn Profile:** [Connect with Me](https://linkedin.com/in/jacquesbelmont)  
-- **Upwork Profile:** [Hire Me on Upwork](https://www.upwork.com/freelancers/jacquesbelmont)  
+Aqui está a versão atualizada e otimizada para GitHub `README.md` ou para a página "Sobre" do seu site:
 
 ---
 
+# 🚀 Senior Prompt Engineer & AI Agent Developer
 
+Hi there! 👋 I’m **Jacques Belmont**. I bridge the gap between human intent and machine execution.
 
-## 🏆 Certifications  
+Formerly a high-performance Digital Marketing Strategist, I have pivoted to become a **Senior AI Engineer** specializing in **Reverse Prompt Engineering** and **Autonomous Agents**. I don't just write prompts; I architect the logic, context, and workflows that allow Large Language Models (LLMs) to function as reliable employees.
 
-I continuously stay ahead of the curve with certifications that reflect my dedication to the field:  
-
-- **Google Analytics Certified**  
-- **Ahrefs Advanced Link Building**  
-- **Conversion Rate Optimization (CRO) Specialist**  
-- **WordPress Site Management & SEO**  
-- **SEMrush SEO Fundamentals Course with Greg Gifford Certified**  
-  [View Certificate](https://static.semrush.com/academy/certificates/1858069ce2/jacques-belmont_1.pdf)  
-
---- 
-
-This structure ensures the new certification is prominently displayed and easily accessible. Let me know if you'd like further refinements! 😊
-
-These certifications ensure I bring industry-best practices to every project.
+My approach combines **Vibe Coding** (AI-assisted programming) with robust software architecture to build tools that scale.
 
 ---
 
-## 📈 My Expertise  
+## 🌐 Explore My Ecosystem
 
-### 🔑 **Keyword Research & Strategy**  
-I perform comprehensive keyword research tailored to your brand and audience. My approach includes:  
-- Identifying high-value keywords to boost visibility.  
-- Strategically embedding keywords across content for maximum impact.  
-
-### 🔗 **Link Building & Off-Page SEO**  
-I create robust link-building strategies to enhance domain authority and ranking:  
-- Crafting internal and external link networks.  
-- Securing high-quality backlinks from authoritative sites.  
-
-### 📊 **Analytics Integration**  
-I ensure complete tracking of your website’s performance using:  
-- **Google Analytics** and **Search Console** for in-depth insights.  
-- **Ahrefs** for tracking keyword performance and backlink strategies.  
-
-### 📋 **SEO Compliance & Google Guidelines**  
-I follow Google’s SEO guidelines rigorously, focusing on:  
-- Optimized titles, meta descriptions, and alt tags.  
-- User-friendly URLs and structured content.  
-
-### 🚀 **Performance Optimization**  
-I apply techniques to ensure peak performance and conversions:  
-- **Conversion Rate Optimization (CRO):** Improving user experience for higher conversion rates.  
-- **Search Engine Marketing (SEM):** Increasing visibility through targeted ad campaigns.  
-- Lightning-fast load times and seamless user experiences.  
+* **Intelligence Hub:** [jacquesbelmont.com](https://jacquesbelmont.com)
+* **LinkedIn:** [Connect with Me](https://linkedin.com/in/jacquesbelmont)
+* **GitHub:** [See my Repos](https://github.com/jacquesbelmont)
 
 ---
 
-## 🖥️ Advanced Blog Management System  
+## 🧠 Core Competencies (The AI Pivot)
 
-I design and implement intuitive blog management systems with SEO-driven features:  
-- **Pre-configured SEO Settings:** Ensuring every post meets best practices.  
-- **Automated SEO Suggestions:** A dashboard with real-time recommendations.  
-- **Easy Post Management:** Secure admin interface with login credentials.  
+### 🛠 **AI Engineering & Vibe Coding**
 
----
+I treat "English as a Programming Language". My workflow involves:
 
-## 🌟 Featured Projects  
+* **Reverse Context Engineering:** Creating "Artifacts" (documents, schemas, logic) before generating code to prevent AI hallucinations.
+* **Vibe Coding:** Building complex full-stack apps (Astro, React, Python) by orchestrating LLMs like Gemini 1.5 Pro and Claude 3.5 Sonnet.
+* **Agentic Workflows:** Designing autonomous loops using **n8n** and **Python** where AI plans, executes, and reviews its own work.
 
-### 🔗 [7-Figure Digital Marketing Campaign](https://marketingraiz.com/products)  
-A high-performance campaign combining SEO, paid traffic, and VSLs to drive substantial growth.  
+### 🔍 **SEO & AEO (Answer Engine Optimization)**
 
-### 🔗 [YouTube Analytics Dashboard](https://github.com/yourproject)  
-A custom dashboard integrating YouTube APIs to analyze views, impressions, and engagement rates effectively.  
+Transitioning from traditional SEO to optimizing for AI Search (Perplexity, ChatGPT Search, Gemini):
 
----
-
-## ⚙️ Additional Capabilities  
-
-### 🎥 **Video Sales Letters (VSLs)**  
-- AI-powered VSL creation for maximum impact.  
-
-### 🌍 **Google My Business Optimization**  
-- Full setup and optimization to boost local visibility.  
-
-### 🛠️ **WordPress Development**  
-- Building high-performing, easy-to-manage websites.  
+* **Structured Data (JSON-LD):** helping IAs understand "Entities" over keywords.
+* **Semantic SEO:** Writing for LLM context windows, not just Google crawlers.
 
 ---
 
-## 💼 Tools & Skills  
+## 🌟 Featured Projects
 
-Here’s a snapshot of my most-used tools and skills:  
+### 🧬 **Viral DNA (AI Content Analysis)**
 
-- **SEO Tools:** SEMrush, Ahrefs, Google Analytics, Google Search Console  
-- **Website Management:** WordPress, site speed optimization  
-- **Performance Tracking:** Conversion Rate Optimization (CRO)  
-- **Paid Traffic Strategies:** Google Ads, Meta Ads  
-- **Content Creation:** Video Sales Letters (VSL), Ads creative design  
+*Stack: Python, AI Agents, YouTube API*
+An AI-powered system that reverse-engineers viral YouTube videos. It analyzes scripts, pacing, and visual hooks to generate blueprints for high-retention content.
+
+* **Tech:** Sentiment analysis and pattern recognition using LLMs.
+
+### 🎰 **Roulette Analytica / PRO**
+
+*Stack: React, TypeScript, Probability Algorithms*
+A progressive web app (PWA) developed to analyze probabilistic patterns in real-time.
+
+* **Key Feature:** Implements complex probability logic and "column prediction" algorithms based on historical data.
+
+### ⚡ **Jacques OS (Personal Intelligence Hub)**
+
+*Stack: Astro (SSR), React Islands, Prisma, Tailwind*
+More than a portfolio, this is a fully functional CMS built with "Vibe Coding".
+
+* **Features:** Custom Admin Panel, Multi-language support (EN, ES, PT, ZH, AR), and dynamic content management without headless CMS costs.
 
 ---
 
-## 👀 Want to Learn More?  
+## 🏆 Certifications & Milestones
 
-Explore my portfolio or connect with me for collaborations:  
+My foundation in data and marketing makes me a better AI Engineer:
 
-📧 **Email:** info@jacquesbelmont.com  
+* **Prompt Engineering & Advanced Context** (Self-Mastery / Applied Research)
+* **Google Analytics Certified**
+* **SEMrush SEO Fundamentals**
+* **Conversion Rate Optimization (CRO) Specialist**
 
 ---
 
-**🔗 See more projects on my GitHub:**  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github)](https://github.com/jacquesbelmont)
+## 💼 Tech Stack & Tools
 
---- 
-😊
+**AI & Automation:**
+`Python` `n8n` `LangChain` `Gemini 1.5 Pro` `Claude 3.5 Sonnet` `Midjourney`
+
+**Web Development:**
+`Astro` `React` `TypeScript` `Tailwind CSS` `Prisma (ORM)` `PostgreSQL`
+
+**Marketing & Analytics:**
+`Google Search Console` `Ahrefs` `Semrush` `GA4`
+
+---
+
+## 📈 My Philosophy: "The Death of the Simple Prompt"
+
+I believe that typing a single sentence into ChatGPT is amateur. Real results come from **Chain-of-Thought (CoT)** reasoning and **Multi-Shot Prompting**.
+
+> *"I don't guess the prompt. I engineer the context so the outcome is inevitable."*
+
+---
+
+## 👀 Ready to Automate Your Workflow?
+
+Whether you need a custom AI Agent or a robust SEO strategy for the AI era, let's talk.
+
+📧 **Email:** [contact@jacquesbelmont.com](mailto:contact@jacquesbelmont.com)
+
+---
+
+*[Updated: 2026]*
