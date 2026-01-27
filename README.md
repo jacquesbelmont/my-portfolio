@@ -1,103 +1,204 @@
-# 🚀 Senior Prompt Engineer & AI Agent Developer
+# 👋 Hi, I'm Jacques Belmont
 
-Hi there! 👋 I’m **Jacques Belmont**. I bridge the gap between human intent and machine execution.
+**AI Engineer | Prompt Engineering Specialist | Full-Stack Developer**
 
-Formerly a high-performance Digital Marketing Strategist, I have pivoted to become a **Senior AI Engineer** specializing in **Reverse Prompt Engineering** and **Autonomous Agents**. I don't just write prompts; I architect the logic, context, and workflows that allow Large Language Models (LLMs) to function as reliable employees.
+I build production-ready AI systems that solve real problems. My work combines software engineering with LLM orchestration to create intelligent automation for enterprises and public sector organizations.
 
-My approach combines **Vibe Coding** (AI-assisted programming) with robust software architecture to build tools that scale.
-
----
-
-## 🌐 Explore My Ecosystem
-
-* **Intelligence Hub:** [jacquesbelmont.com](https://jacquesbelmont.com)
-* **LinkedIn:** [Connect with Me](https://linkedin.com/in/jacquesbelmont)
-* **GitHub:** [See my Repos](https://github.com/jacquesbelmont)
+🌍 **Based in:** Porto Velho, Brazil | 🌐 **Available:** Remote (Global)  
+📧 **Contact:** jacquesbelmont@gmail.com | 🔗 **Web:** [jacquesbelmont.com](https://jacquesbelmont.com)
 
 ---
 
-## 🧠 Core Competencies (The AI Pivot)
+## 🎯 What I Do
 
-### 🛠 **AI Engineering & Vibe Coding**
+I specialize in bridging the gap between AI capabilities and business needs:
 
-I treat "English as a Programming Language". My workflow involves:
+- **LLM Application Development:** Building agents with GPT-4, Claude, and open-source models
+- **Prompt Engineering:** Creating scalable frameworks for consistent AI outputs
+- **Process Automation:** Reducing manual work through n8n workflows and Python scripts
+- **RAG Systems:** Implementing retrieval-augmented generation for document intelligence
+- **Web Development:** Full-stack apps with React, Astro, Python (Django/Flask)
 
-* **Reverse Context Engineering:** Creating "Artifacts" (documents, schemas, logic) before generating code to prevent AI hallucinations.
-* **Vibe Coding:** Building complex full-stack apps (Astro, React, Python) by orchestrating LLMs like Gemini 1.5 Pro and Claude 3.5 Sonnet.
-* **Agentic Workflows:** Designing autonomous loops using **n8n** and **Python** where AI plans, executes, and reviews its own work.
-
-### 🔍 **SEO & AEO (Answer Engine Optimization)**
-
-Transitioning from traditional SEO to optimizing for AI Search (Perplexity, ChatGPT Search, Gemini):
-
-* **Structured Data (JSON-LD):** helping IAs understand "Entities" over keywords.
-* **Semantic SEO:** Writing for LLM context windows, not just Google crawlers.
+Currently pursuing **IBM AI Engineering Professional Certificate** and specializing in AI for Public Services.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-### 🧬 **Viral DNA (AI Content Analysis)**
+**AI & Machine Learning**
+```
+Python • LangChain • LangGraph • OpenAI API • Anthropic Claude • IBM watsonx
+Prompt Engineering • RAG (Retrieval-Augmented Generation) • Vector Databases
+```
 
-*Stack: Python, AI Agents, YouTube API*
-An AI-powered system that reverse-engineers viral YouTube videos. It analyzes scripts, pacing, and visual hooks to generate blueprints for high-retention content.
+**Web Development**
+```
+JavaScript/TypeScript • React • Astro • Node.js • HTML/CSS • Tailwind CSS
+WordPress (Advanced Customization) • REST APIs • JSON
+```
 
-* **Tech:** Sentiment analysis and pattern recognition using LLMs.
+**Automation & DevOps**
+```
+n8n • Docker • Git/GitHub • CI/CD • Python Scripts
+```
 
-### 🎰 **Roulette Analytica / PRO**
-
-*Stack: React, TypeScript, Probability Algorithms*
-A progressive web app (PWA) developed to analyze probabilistic patterns in real-time.
-
-* **Key Feature:** Implements complex probability logic and "column prediction" algorithms based on historical data.
-
-### ⚡ **Jacques OS (Personal Intelligence Hub)**
-
-*Stack: Astro (SSR), React Islands, Prisma, Tailwind*
-More than a portfolio, this is a fully functional CMS built with "Vibe Coding".
-
-* **Features:** Custom Admin Panel, Multi-language support (EN, ES, PT, ZH, AR), and dynamic content management without headless CMS costs.
-
----
-
-## 🏆 Certifications & Milestones
-
-My foundation in data and marketing makes me a better AI Engineer:
-
-* **Prompt Engineering & Advanced Context** (Self-Mastery / Applied Research)
-* **Google Analytics Certified**
-* **SEMrush SEO Fundamentals**
-* **Conversion Rate Optimization (CRO) Specialist**
+**Data & Analytics**
+```
+Google Analytics 4 • Search Console • SEMrush • Ahrefs • PostgreSQL
+```
 
 ---
 
-## 💼 Tech Stack & Tools
+## 🚀 Featured Projects
 
-**AI & Automation:**
-`Python` `n8n` `LangChain` `Gemini 1.5 Pro` `Claude 3.5 Sonnet` `Midjourney`
+### 🤖 [VibeCode Framework - AI Automation for Public Sector](https://github.com/jacquesbelmont/vibecode-framework)
+**Stack:** Python, LangChain, Streamlit  
+**Demo:** [▶️ Watch Demo](#) | **Status:** Active Development
 
-**Web Development:**
-`Astro` `React` `TypeScript` `Tailwind CSS` `Prisma (ORM)` `PostgreSQL`
+Methodology and training framework enabling non-technical government staff to create AI-powered automations. Includes 20+ templates for common public sector tasks.
 
-**Marketing & Analytics:**
-`Google Search Console` `Ahrefs` `Semrush` `GA4`
-
----
-
-## 📈 My Philosophy: "The Death of the Simple Prompt"
-
-I believe that typing a single sentence into ChatGPT is amateur. Real results come from **Chain-of-Thought (CoT)** reasoning and **Multi-Shot Prompting**.
-
-> *"I don't guess the prompt. I engineer the context so the outcome is inevitable."*
+**Key Features:**
+- LGPD-compliant document processing
+- Automated report generation from structured data
+- Multi-language support (PT, EN, ES)
 
 ---
 
-## 👀 Ready to Automate Your Workflow?
+### 🎰 [Roulette PRO - Probability Analysis Engine](https://github.com/jacquesbelmont/roulette-pro)
+**Stack:** JavaScript, React, TypeScript  
+**Demo:** [▶️ Watch Demo](#) | **Live:** [Try it here](#)
 
-Whether you need a custom AI Agent or a robust SEO strategy for the AI era, let's talk.
+Real-time probabilistic pattern analyzer built to demonstrate advanced JavaScript logic and data manipulation.
 
-📧 **Email:** [contact@jacquesbelmont.com](mailto:contact@jacquesbelmont.com)
+**Technical Highlights:**
+- Complex JSON data structure handling
+- Real-time statistical calculations
+- Progressive Web App (PWA) with offline support
+- Responsive UI with Tailwind CSS
 
 ---
 
-*[Updated: 2026]*
+### 🌐 [Jacques OS - Personal CMS & Portfolio](https://jacquesbelmont.com)
+**Stack:** Astro (SSR), React Islands, Prisma, PostgreSQL  
+**Demo:** [▶️ Watch Demo](#)
+
+Custom-built Content Management System using modern JAMstack architecture. Demonstrates full-stack capabilities and AI-assisted development workflow.
+
+**Features:**
+- Multi-language content (EN, ES, PT, ZH, AR)
+- Custom admin panel with authentication
+- SEO-optimized with structured data (JSON-LD)
+- Server-side rendering for performance
+
+---
+
+### 📄 [AI Document Analyzer with RAG](https://github.com/jacquesbelmont/ai-doc-analyzer)
+**Stack:** Python, LangChain, OpenAI Embeddings, Streamlit  
+**Demo:** [▶️ Watch Demo](#) | **Status:** In Progress
+
+Upload PDFs and ask questions using retrieval-augmented generation. Demonstrates practical implementation of RAG systems.
+
+**Technical Implementation:**
+- Document chunking and embedding generation
+- Vector similarity search
+- LLM-powered question answering
+- Dockerized deployment
+
+---
+
+### 🔗 [n8n AI Workflows Collection](https://github.com/jacquesbelmont/n8n-workflows)
+**Stack:** n8n, JavaScript, OpenAI API  
+**Demo:** [▶️ Watch Demo](#)
+
+Production-ready automation workflows combining APIs, webhooks, and LLMs for business process automation.
+
+**Example Workflows:**
+- Automated content analysis and tagging
+- Lead qualification with AI scoring
+- Document processing pipeline
+- Social media monitoring with sentiment analysis
+
+---
+
+## 📚 Learning Path & Certifications
+
+**Currently Studying:**
+- 🎓 IBM AI Engineering Professional Certificate (In Progress)
+- 🎓 Postgraduate: Artificial Intelligence for Public Services (In Progress)
+
+**Completed:**
+- ✅ Introduction to Generative AI - Google Cloud Skills Boost
+- ✅ Prompt Engineering for Public Servants - ENAP (Brazil)
+- ✅ Google Analytics Certification
+- ✅ SEMrush SEO Fundamentals
+
+**Academic Background:**
+- 🎓 Bachelor's Degree in Information Systems - UNIESP (2015)
+
+---
+
+## 💼 Work Experience Highlights
+
+**AI Solutions Architect & Developer** | JB Mídia (2024 - Present)
+- Developing LLM-powered applications for internal automation and client solutions
+- Creating prompt engineering frameworks for consistent AI outputs
+- Implementing RAG systems for document intelligence
+- Training teams on AI tool adoption and best practices
+
+**Community Manager & Technical Lead** | Google Developers Group (2008 - 2018)
+- Organized workshops on web development and Google technologies
+- Led technical community of 500+ developers
+- Presented on web performance optimization and modern JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+![Jacques's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacquesbelmont&show_icons=true&theme=dark)
+
+---
+
+## 🌟 What Makes Me Different
+
+I don't just follow tutorials—I build production systems. My background in digital marketing gives me a unique perspective: I understand business metrics, user behavior, and the ROI of automation.
+
+**My approach:**
+1. **Start with the problem**, not the technology
+2. **Build incrementally** with working prototypes
+3. **Document everything** for team knowledge sharing
+4. **Focus on maintainability** over clever code
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm actively seeking roles in:
+- 🎯 AI Engineering (Junior to Mid-Level)
+- 🎯 Prompt Engineering Specialist
+- 🎯 Full-Stack Developer with AI focus
+- 🎯 Technical Consulting for Public Sector (Brazil)
+
+**Preferred work arrangement:** Remote (open to global opportunities)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/jacquesbelmont)
+- 🌐 [Portfolio](https://jacquesbelmont.com)
+- 📧 [Email](mailto:jacquesbelmont@gmail.com)
+- 🐦 [Twitter/X](https://twitter.com/jacquesbelmont) (if you have)
+
+---
+
+<p align="center">
+  <i>⭐ If you find my work interesting, consider starring some repositories!</i>
+</p>
+
+<p align="center">
+  <i>"Building the future, one commit at a time."</i>
+</p>
+
+---
+
+**Last Updated:** January 2026
